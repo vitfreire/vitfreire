@@ -8,7 +8,7 @@ Sou desenvolvedora Full Stack formada em **Análise e Desenvolvimento de Sistema
 
 - **Back-End:** Django, Python e criação de APIs.
 - **Front-End:** Interfaces responsivas com Bootstrap e Tailwind CSS.
-- **Bancos de Dados:** SQL/NoSQL e integração de APIs.
+- **Bancos de Dados:** SQL/NoSQL.
 - **Metodologias Ágeis:** Experiência com Scrum e Kanban.
 
 ---
