@@ -2,38 +2,46 @@
 
 Seja bem-vindo ao meu GitHub! Aqui você encontra projetos, ideias e colaborações que refletem minha trajetória profissional e paixão pela tecnologia.
 
----
 
 ## Sobre mim 
 Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando uma pós-graduação em **Inteligência Artificial e Ciência de Dados**. Tenho experiência como desenvolvedora Full Stack, com foco em soluções tecnológicas para startups e sistemas escaláveis.
 
 ---
+🎓 Sobre mim
 
-## 🔧 Minhas especialidades
+Formada em Análise e Desenvolvimento de Sistemas;
 
-- **Desenvolvimento Back-End:**
-  - Desenvolvimento de aplicações com **Django** e **Python**;
-  - Criação de APIs seguras e eficientes para integrações complexas.
+Pós-graduanda em Inteligência Artificial e Ciência de Dados;
 
-- **Desenvolvimento Front-End:**
-  - Construção de interfaces responsivas e intuitivas utilizando **Bootstrap**, **Tailwind CSS**, e **JavaScript**.
+Desenvolvedora Full Stack com foco em startups e soluções eficientes.
 
-- **Automatização e Integração de APIs:**
-  - Implementação de soluções que otimizam processos empresariais e financeiros.
+🚀 Minhas especialidades
 
-- **Gerenciamento de Bancos de Dados:**
-  - Modelagem e otimização de bancos de dados **SQL** e **NoSQL**.
+Back-End:
 
-- **Metodologias Ágeis:**
-  - Experiência em **Scrum** e **Kanban** para gerenciar projetos e garantir entregas consistentes.
+Desenvolvimento com Django e Python;
 
----
+Criação de APIs seguras.
 
-## 🌐 Meus interesses
+Front-End:
 
-- Exploração de soluções em Inteligência Artificial e Ciência de Dados;
-- Desenvolvimento de produtos digitais para startups;
-- Integração de gamificação em sistemas para aumentar engajamento.
+Interfaces responsivas com Bootstrap e Tailwind CSS.
+
+Automatização e Bancos de Dados:
+
+Integração de APIs e otimização de SQL/NoSQL.
+
+Metodologias Ágeis:
+
+Experiência com Scrum e Kanban.
+
+💡 Interesses
+
+Soluções em IA e Ciência de Dados;
+
+Gamificação para engajamento de usuários;
+
+Desenvolvimento de produtos digitais inovadores.
 
 ---
 
