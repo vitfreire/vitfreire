@@ -9,39 +9,39 @@ Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
 ---
 🎓 Sobre mim
 
-Formada em Análise e Desenvolvimento de Sistemas;
+- Formada em Análise e Desenvolvimento de Sistemas;
 
-Pós-graduanda em Inteligência Artificial e Ciência de Dados;
+- Pós-graduanda em Inteligência Artificial e Ciência de Dados;
 
-Desenvolvedora Full Stack com foco em startups e soluções eficientes.
+- Desenvolvedora Full Stack com foco em startups e soluções eficientes.
 
 🚀 Minhas especialidades
 
 Back-End:
 
-Desenvolvimento com Django e Python;
+- Desenvolvimento com Django e Python;
 
-Criação de APIs seguras.
+- Criação de APIs.
 
 Front-End:
 
-Interfaces responsivas com Bootstrap e Tailwind CSS.
+- Interfaces responsivas com Bootstrap e Tailwind CSS.
 
-Automatização e Bancos de Dados:
+- Automatização e Bancos de Dados:
 
-Integração de APIs e otimização de SQL/NoSQL.
+- Integração de APIs e otimização de SQL/NoSQL.
 
 Metodologias Ágeis:
 
-Experiência com Scrum e Kanban.
+- Experiência com Scrum e Kanban.
 
 💡 Interesses
 
-Soluções em IA e Ciência de Dados;
+- Soluções em IA e Ciência de Dados;
 
-Gamificação para engajamento de usuários;
+- Gamificação para engajamento de usuários;
 
-Desenvolvimento de produtos digitais inovadores.
+- Desenvolvimento de produtos digitais inovadores.
 
 ---
 
