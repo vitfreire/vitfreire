@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Vitória!
 
-Bem-vindo ao meu GitHub! Sou desenvolvedora Full Stack formada em **Análise e Desenvolvimento de Sistemas** e pós-graduanda em **Inteligência Artificial e Ciência de Dados**. Aqui você encontra projetos que unem tecnologia, soluções escaláveis e inovação.
+Sou desenvolvedora Full Stack formada em **Análise e Desenvolvimento de Sistemas** e pós-graduanda em **Inteligência Artificial e Ciência de Dados**. Aqui você encontra projetos que unem tecnologia, soluções escaláveis e inovação.
 
 ---
 
