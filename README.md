@@ -6,7 +6,7 @@ Sou desenvolvedora Full Stack formada em **Análise e Desenvolvimento de Sistema
 
 ## 🚀 Minhas especialidades
 
-- **Back-End:** Django, Python e criação de APIs.
+- **Back-End:** Django, Python, PHP e criação de APIs.
 - **Front-End:** Interfaces responsivas com Bootstrap e Tailwind CSS.
 - **Bancos de Dados:** SQL/NoSQL.
 - **Metodologias Ágeis:** Experiência com Scrum e Kanban.
