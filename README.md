@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Vitória Freire</h1>
-<h3 align="center">Cientista de Dados em formação | Python | ML e MLOps</h3>
+<h3 align="center">Cientista de Dados | Python | ML e MLOps</h3>
 
 <p align="center">
   Transformando dados em decisões por meio de análise, machine learning e engenharia
