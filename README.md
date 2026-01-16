@@ -1,29 +1,92 @@
-# 👋 Olá, eu sou a Vitória!
+<h1 align="center">Olá, eu sou a Vitória Freire</h1>
+<h3 align="center">Cientista de Dados em formação | Python | ML e MLOps</h3>
 
-Sou desenvolvedora Full Stack formada em **Análise e Desenvolvimento de Sistemas** e pós-graduanda em **Inteligência Artificial e Ciência de Dados**. Aqui você encontra projetos que unem tecnologia, soluções escaláveis e inovação.
-
----
-
-## 🚀 Minhas especialidades
-
-- **Back-End:** Django, Python, PHP e criação de APIs.
-- **Front-End:** Interfaces responsivas com Bootstrap e Tailwind CSS.
-- **Bancos de Dados:** SQL/NoSQL.
-- **Metodologias Ágeis:** Experiência com Scrum e Kanban.
+<p align="center">
+  Transformando dados em decisões por meio de análise, machine learning e engenharia
+</p>
 
 ---
 
-## 💡 Interesses
+## Sobre mim
 
-Soluções em IA, gamificação e desenvolvimento de produtos digitais inovadores.
+Sou formada em Análise e Desenvolvimento de Sistemas e pós-graduanda em Inteligência Artificial e Ciência de Dados.  
+Atuo com dados de ponta a ponta: análise exploratória, engenharia de atributos, modelagem preditiva, avaliação de modelos e comunicação de insights.
+
+Meus projetos têm foco em resolver problemas reais de negócio usando dados.
 
 ---
 
-## 🌟 Vamos conectar?
+## Stack Tecnológica
 
-[LinkedIn](https://www.linkedin.com/in/vitoriadev)  
-[GitHub](https://github.com/vitfreire)  
-[E-mail](mailto:vitoria.loruama.freire@gmail.com)
+### Ciência de Dados e Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-2E2E2E?style=flat"/>
+</p>
 
-Explore meus repositórios e compartilhe seu feedback. Vamos construir algo incrível juntos!
+### MLOps e Engenharia de Dados
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prefect-2E71FF?style=flat"/>
+</p>
 
+### Backend e APIs de Dados
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+</p>
+
+### Bancos de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat"/>
+</p>
+
+---
+
+## O que você vai encontrar aqui
+
+- Análises exploratórias com dados reais  
+- Modelos de machine learning avaliados por métricas adequadas  
+- Experimentos comparando modelos  
+- Conceitos de MLOps aplicados a projetos  
+- Dashboards e storytelling analítico  
+
+---
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitfreire&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitfreire&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## Vamos nos conectar
+
+<p>
+  <a href="https://www.linkedin.com/in/seu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/seu-usuario">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Aberta a colaborações, aprendizado contínuo e desafios em dados
+</p>
