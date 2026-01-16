@@ -65,10 +65,10 @@ Meus projetos têm foco em resolver problemas reais de negócio usando dados.
 ## Vamos nos conectar
 
 <p>
-  <a href="https://www.linkedin.com/in/vitoriadev/target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/vitoriadev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/vitoriafreirec/target="_blank" rel="noopener noreferrer">
+  <a href="https://www.kaggle.com/vitoriafreirec/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
   </a>
 </p>
@@ -78,3 +78,4 @@ Meus projetos têm foco em resolver problemas reais de negócio usando dados.
 <p align="center">
   Aberta a colaborações, aprendizado contínuo e desafios em dados
 </p>
+
