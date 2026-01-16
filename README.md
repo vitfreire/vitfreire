@@ -16,7 +16,7 @@ Meus projetos têm foco em resolver problemas reais de negócio usando dados.
 
 ---
 
-## Stack Tecnológica
+## Stacks 
 
 ### Ciência de Dados e Machine Learning
 <p>
