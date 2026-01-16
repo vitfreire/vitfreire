@@ -62,25 +62,13 @@ Meus projetos têm foco em resolver problemas reais de negócio usando dados.
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitfreire&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitfreire&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## Vamos nos conectar
 
 <p>
-  <a href="https://www.linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/vitoriadev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/seu-usuario">
+  <a href="https://www.kaggle.com/vitoriafreirec">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
   </a>
 </p>
